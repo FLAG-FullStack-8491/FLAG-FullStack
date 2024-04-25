@@ -25,3 +25,8 @@ Professor: [Valerio Vaz](https://github.com/vvaz)
 - [Antonio J V Cunha](https://github.com/antoniojvcunha)
 
 - [Marianass Almeida](https://github.com/Marianassalmeida)
+
+##
+
+> [!TIP]
+> Livros de apoio: [diretório](/livros/)
