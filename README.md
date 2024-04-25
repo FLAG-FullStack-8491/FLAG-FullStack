@@ -6,22 +6,22 @@ Link para o grupo no [Discord](https://discord.gg/c7fZ7PVx6v)
 
 ### Turma :
 
-**Professor:** [Valerio Vaz](https://github.com/vvaz)
+Professor: [Valerio Vaz](https://github.com/vvaz)
 
 **Equipe:**
 
-[Angelo Santos Dev](https://github.com/AngeloSantosDev)
+- [Angelo Santos Dev](https://github.com/AngeloSantosDev)
 
-[Antonio J V Cunha](https://github.com/antoniojvcunha)
+- [Eraldo Oliveira](https://github.com/eraldo-oliveira)
 
-[Eraldo Oliveira](https://github.com/eraldo-oliveira)
+- [Hugo](https://github.com/hugo-m12)
 
-[Hugo](https://github.com/hugo-m12)
+- [LP Ferreira](https://github.com/LPFerreira)
 
-[LP Ferreira](https://github.com/LPFerreira)
+- [Pedro Franzina](https://github.com/pedrofranzina)
 
-[Marianass Almeida](https://github.com/Marianassalmeida)
+- [V Silva Bruno](https://github.com/vsilvabruno)
 
-[Pedro Franzina](https://github.com/pedrofranzina)
+- [Antonio J V Cunha](https://github.com/antoniojvcunha)
 
-[V Silva Bruno](https://github.com/vsilvabruno)
+- [Marianass Almeida](https://github.com/Marianassalmeida)
