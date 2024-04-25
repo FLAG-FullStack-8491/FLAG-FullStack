@@ -22,6 +22,8 @@ Professor: [Valerio Vaz](https://github.com/vvaz)
 
 - [V Silva Bruno](https://github.com/vsilvabruno)
 
+- [Gabriel Stroligo](https://github.com/stroligo)
+
 - [Antonio J V Cunha](https://github.com/antoniojvcunha)
 
 - [Marianass Almeida](https://github.com/Marianassalmeida)
