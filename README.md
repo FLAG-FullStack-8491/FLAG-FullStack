@@ -1,10 +1,9 @@
-# FLAG - FullStack Turma #8491
+## FLAG - FULL STACK WEB DEVELOPMENT
 
-Link para o grupo no [WhatsApp](https://chat.whatsapp.com/LjEH7BEsphLCAjIFMhcVzE)
+Links para os grupo:
+[WhatsApp](https://chat.whatsapp.com/LjEH7BEsphLCAjIFMhcVzE) | [Discord](https://discord.gg/c7fZ7PVx6v)
 
-Link para o grupo no [Discord](https://discord.gg/c7fZ7PVx6v)
-
-### Turma :
+### Turma #8491 :
 
 Professor: [Valerio Vaz](https://github.com/vvaz)
 
@@ -32,3 +31,55 @@ Professor: [Valerio Vaz](https://github.com/vvaz)
 
 > [!TIP]
 > Livros de apoio: [repositório](/livros/)
+
+## Etapas:
+
+- [x] Sessão de Onboarding
+
+- [x] Fundamentos de Web Development
+
+- [x] Fundamentos de UX/UI
+
+- [x] Metodologias Ágeis para Gestão de Projetos: Scrum
+
+- [] Workshop: GIT
+
+- [] HTML5
+
+- [] CSS3
+
+- [] Workshop
+
+- [] Workshop: Responsive Web Design
+
+- [] Fundamentos de Programação
+
+- [] Javascript
+
+- [] Frontend Frameworks: React
+
+- [] Pitstop
+
+- [] Projeto: Front-End
+
+- [] Fundamentos de Back-End Development
+
+- [] Introdução à estruturação de dados
+
+- [] Bases de dados MySQL
+
+- [] PHP
+
+- [] PHP Frameworks: Laravel
+
+- [] Criação de REST APIs
+
+- [] Workshop: MongoDB + NodeJS + ExpressJS
+
+- [] Pitstop
+
+- [] Projeto: Back-End
+
+## Cronograma
+
+![Cronograma](img/cronograma_flag.png)
