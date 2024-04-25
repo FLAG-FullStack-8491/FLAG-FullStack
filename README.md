@@ -42,43 +42,43 @@ Professor: [Valerio Vaz](https://github.com/vvaz)
 
 - [x] Metodologias Ágeis para Gestão de Projetos: Scrum
 
-- [] Workshop: GIT
+- [ ] Workshop: GIT
 
-- [] HTML5
+- [ ] HTML5
 
-- [] CSS3
+- [ ] CSS3
 
-- [] Workshop
+- [ ] Workshop
 
-- [] Workshop: Responsive Web Design
+- [ ] Workshop: Responsive Web Design
 
-- [] Fundamentos de Programação
+- [ ] Fundamentos de Programação
 
-- [] Javascript
+- [ ] Javascript
 
-- [] Frontend Frameworks: React
+- [ ] Frontend Frameworks: React
 
-- [] Pitstop
+- [ ] Pitstop
 
-- [] Projeto: Front-End
+- [ ] Projeto: Front-End
 
-- [] Fundamentos de Back-End Development
+- [ ] Fundamentos de Back-End Development
 
-- [] Introdução à estruturação de dados
+- [ ] Introdução à estruturação de dados
 
-- [] Bases de dados MySQL
+- [ ] Bases de dados MySQL
 
-- [] PHP
+- [ ] PHP
 
-- [] PHP Frameworks: Laravel
+- [ ] PHP Frameworks: Laravel
 
-- [] Criação de REST APIs
+- [ ] Criação de REST APIs
 
-- [] Workshop: MongoDB + NodeJS + ExpressJS
+- [ ] Workshop: MongoDB + NodeJS + ExpressJS
 
-- [] Pitstop
+- [ ] Pitstop
 
-- [] Projeto: Back-End
+- [ ] Projeto: Back-End
 
 ## Cronograma
 
