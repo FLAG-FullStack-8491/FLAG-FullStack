@@ -31,4 +31,4 @@ Professor: [Valerio Vaz](https://github.com/vvaz)
 ##
 
 > [!TIP]
-> Livros de apoio: [diretório](/livros/)
+> Livros de apoio: [repositório](/livros/)
