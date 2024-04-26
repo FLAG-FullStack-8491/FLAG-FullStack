@@ -7,7 +7,7 @@ Links para os grupo:
 
 **Formadores:**
 
--[Valerio Vaz](https://github.com/vvaz), (valerio@wpbox.io)
+- [Valerio Vaz](https://github.com/vvaz) - valerio@wpbox.io
 
 **Equipe:**
 
