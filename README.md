@@ -5,7 +5,9 @@ Links para os grupo:
 
 ### Turma #8491 :
 
-Professor: [Valerio Vaz](https://github.com/vvaz)
+**Formadores:**
+
+-[Valerio Vaz](https://github.com/vvaz), (valerio@wpbox.io)
 
 **Equipe:**
 
