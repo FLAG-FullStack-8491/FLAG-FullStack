@@ -29,6 +29,8 @@ Links para os grupo:
 
 - [Marianass Almeida](https://github.com/Marianassalmeida)
 
+- [Carlos Veiga](https://github.com/srcveiga)
+
 ##
 
 > [!TIP]
